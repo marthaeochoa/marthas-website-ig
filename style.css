@@ -1,5 +1,13 @@
 body {
     background: lightslategray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    text-decoration: underline;
+    color: white;
+    text-shadow: -2px 2px 0 black;
+
 }
 
